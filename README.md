@@ -10,3 +10,4 @@ German and Turkish Literature
 
 ## My Objectives
 * to develop computational methods for comparative literature
+
