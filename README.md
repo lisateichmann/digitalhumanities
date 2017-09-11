@@ -1,5 +1,7 @@
 # Lisa Teichmann's Digital Humanities Repository
 
+<img align="right" src="https://github.com/lisateichmann/digitalhumanities/blob/master/Teichmann.jpg" width="250">
+
 ## Short Biography
 I am a PhD student in German Studies at McGill University.
 
@@ -10,4 +12,3 @@ German and Turkish Literature
 
 ## My Objectives
 * to develop computational methods for comparative literature
-
