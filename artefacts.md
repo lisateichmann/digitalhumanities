@@ -2,7 +2,7 @@
 
 # GAZETTEERS
 
-# CURATORIAL STATEMENT
+## CURATORIAL STATEMENT
 
 Extracting and mapping toponyms in fiction or non-fiction – especially historical texts – can be a challenging task. Place names might change over time, differ from language to language and also depend on text genre and period. Gazetteers are a useful resource for research in spatial humanities. Not only do they provide an academically well curated list of toponyms, but also serve as the basis of a mapping project. 
 This entry aims at compiling some available, open source gazetteers for different languages (such as English and German) and tools to apply to a dataset such as a text corpus. Each artifact can ideally be used by someone who endeavors to extract and map place names in a given text.
