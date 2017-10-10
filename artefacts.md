@@ -1,31 +1,56 @@
-# Digital Humanities Artefacts
+# CURATED ARTIFACTS
 
-## Artefact Title
-
-[! screenshot] (images/....jpg)
-
-* Artefact Type:
-* Source URL:
-* Permissions:
-* Creator and Affiliation:
-* Tags: (getting started
-
-## Artefact Title
+## German Toponym Gazetteer
 
 [! screenshot] (images/....jpg)
 
-* Artefact Type:
-* Source URL:
-* Permissions:
-* Creator and Affiliation:
-* Tags: (getting started
+* Artifact Type: gazetteer
+* Source URL: https://github.com/adbar/toponyms
+* Permissions: open source, CC BY-SA 4.0 license
+* Creator and Affiliation: Adrien Barbaresi (Austrian Academy of Sciences, Austria)
+* Tags: advanced prototype
 
-## Artefact Title
+Database of German toponyms compiled semi-automatically from Wikidata API and Geonames and Python code for the extraction of place names. The Gazzetteer includes both contemporary and historical spatial data to identify and extract toponyms in newspaper texts from "Die Fackel" (1899-1936). Used in project... 
+
+## MoEML Gazetteer of Early Modern London
 
 [! screenshot] (images/....jpg)
 
-* Artefact Type:
-* Source URL:
-* Permissions:
-* Creator and Affiliation:
-* Tags: (getting started
+* Artifact Type: gazetteer
+* Source URL: https://mapoflondon.uvic.ca/gazetteer_a.htm
+* Permissions: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+* Creator and Affiliation: Janelle Jenstad et.al. (University of Victoria, Canada), Tye Landels-Gruenewald (Queen's University, Canada), et.al.
+* Tags: advanced
+
+gazetteer of 6500 London place names
+project: mapping the English book trade by mining and geocoding the imprint lines.
+
+## TileMill
+
+[! screenshot] (images/....jpg)
+
+* Artifact Type: tool
+* Source URL: https://tilemill-project.github.io/tilemill/
+* Permissions: open source (BSD 3)
+* Creator and Affiliation: Development Seed and Mapbox
+* Tags: tool used
+
+map design studio, developed by a community of volunteer open source contributors
+interactive map and possibility to export into a variety of formats.
+also open for development within the open source community on github
+extensive documentation
+
+
+## Related Keywords: Mapping, Literary Geography, Spatial Humanities, Toponyms
+
+## Related Materials
+ * AAC – Austrian Academy Corpus (2007). AAC–FACKEL, Online
+Version: “Die Fackel. Herausgeber: Karl Kraus, Wien 1899-
+1936”. http://www.aac.ac.at/fackel
+* Jenstad, J., ed. The Map of Early Modern London (MoEML). Available
+at: http://mapoflondon.u vic.ca/ [Accessed 20 March
+2017].
+
+## Works Cited
+* Barbaresi, Adrien. "Toponyms as Entry Points into a Digital Edition: Mapping The Torch (1899-1936)," in Digital Humanities 2017 conference abstracts, Montreal, Canada, August 8-11, 2017. https://dh2017.adho.org/abstracts/209/209.pdf
+* Jenstad, Janelle Auriol; Landels-Gruenewald, Tye; Takeda, Joseph. "Mapping the STC with MoEML and DEEP," in Digital Humanities 2017 conference abstracts, Montreal, Canada, August 8-11, 2017. https://dh2017.adho.org/abstracts/461/461.pdf
