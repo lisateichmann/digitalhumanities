@@ -11,7 +11,7 @@ This entry aims at compiling some available, open source gazetteers for differen
 
 ## German Toponym Gazetteer
 
-Screenshot: [!screenshot](https://github.com/lisateichmann/digitalhumanities/blob/master/barbaresigazetteer.png)
+[!screenshot](https://github.com/lisateichmann/digitalhumanities/blob/master/barbaresigazetteer.png)
 
 * Artifact Type: gazetteer
 * Source URL: https://github.com/adbar/toponyms
@@ -23,7 +23,7 @@ Database of German toponyms compiled semi-automatically from Wikidata API and Ge
 
 ## MoEML Gazetteer of Early Modern London
 
-[! screenshot] (images/....jpg)
+[!screenshot](images/.png)
 
 * Artifact Type: gazetteer
 * Source URL: https://mapoflondon.uvic.ca/gazetteer_a.htm
