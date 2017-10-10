@@ -11,7 +11,7 @@ This entry aims at compiling some available, open source gazetteers for differen
 
 ## German Toponym Gazetteer
 
-[! screenshot] (images/....jpg)
+![barbaresigazetteer](https://user-images.githubusercontent.com/28898995/31368966-157d6dba-ad4f-11e7-89b6-eaad54bfe700.png)
 
 * Artifact Type: gazetteer
 * Source URL: https://github.com/adbar/toponyms
