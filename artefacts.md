@@ -29,7 +29,7 @@ As opposed to NER and AI methods to extract place names from textual data, this 
 
 ## MoEML Gazetteer of Early Modern London
 
-[! screenshot] (images/....jpg)
+![moemlgazetteer](https://user-images.githubusercontent.com/28898995/31369000-4841a8b0-ad4f-11e7-8091-452faf144c09.png)
 
 * Artifact Type: gazetteer
 * Source URL: https://mapoflondon.uvic.ca/gazetteer_a.htm
@@ -48,7 +48,7 @@ The toponym data is tailored to include all possible variants of a place name wh
 
 ## TileMill
 
-[! screenshot] (images/....jpg)
+![tilemillindex](https://user-images.githubusercontent.com/28898995/31369019-764de836-ad4f-11e7-9e7a-284ecb6df9da.png)
 
 * Artifact Type: tool
 * Source URL: https://tilemill-project.github.io/tilemill/
