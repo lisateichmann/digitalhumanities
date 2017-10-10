@@ -20,10 +20,12 @@ This entry aims at compiling some available, open source gazetteers for differen
 * Tags: advanced prototype
 
 Database of German toponyms compiled semi-automatically from Wikidata API and Geonames and Python code for the extraction of place names. The Gazzetteer includes both contemporary and historical spatial data to identify and extract toponyms in newspaper texts from "Die Fackel" (1899-1936). The registers consist of four toponym lists:
+
 * 1. makro (45 entries) 
 * 2. states (213 entries)
 * 4. regions (1015 entries)
 * 5. cities (6546 entries)
+
 As opposed to NER and AI methods to extract place names from textual data, this gazetteer represents a highly curated dataset with the geographical focus on Europe. The accompanying Python script enables the extraction and disambiguation of place names from text. The output data can then be visualized with a mapping tool or GIS software.
 
 
@@ -38,12 +40,14 @@ As opposed to NER and AI methods to extract place names from textual data, this 
 * Tags: advanced
 
 MoEML is a gazetteer of 6500 London place names and has been created to map the English book trade by mining and geocoding the imprint lines of books printed in London between 1475 and 1640. As Jenstad et.al. [2017] mention, NER software did not proof to be feasible in extracting toponyms due to ambiguation issues. The extracted locations from the imprint line were then matched and manually compiled to the MoEML database. The XML/TEI conform dataset has six columns:
+
 * 1. Variant Toponym
 * 2. Authority Name
 * 3. @xml:id
 * 4. Agas Map Reference
 * 5. Other Variant Names and Spellings
 * 6. Location Type
+
 The toponym data is tailored to include all possible variants of a place name which makes it searchable for a specific toponym, even if the spelling has changed over time. This gazetteer is therefore especially useful for historic data.
 
 ## TileMill
