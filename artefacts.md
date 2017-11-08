@@ -61,7 +61,7 @@ The toponym data is tailored to include all possible variants of a place name wh
 * Tags: tool used
 
 TileMill is an open source map design studio. It also features the creation of interactive maps and the possibility to export into a variety of formats and GIS programs. Furthermore, it is open for development within the open source community on github and includes an extensive documentation. It is a web based application and the installation and use of a GIS and graphics editor are necessary in order to work with TileMill. The application's site provides detailed instructions and explanations for the use of GIS and spatial data.
-A possible use of this tool is to extract place names from text with a gazetteer and then visualize the data with TileMill. 
+A possible use of this tool is to extract place names from text with a gazetteer and then visualize the data with TileMill. ([Barbaresi](https://dh2017.adho.org/abstracts/209/209.pdf))
 
 ## Related Keywords: Mapping, Literary Geography, Spatial Humanities, Toponyms
 
